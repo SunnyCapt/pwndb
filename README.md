@@ -1,5 +1,5 @@
 # pwndb
-CWE-256 tool [pwndb2am4tzkvold.onion]
+Command-line tool to serach leaked credentials by pwndb2am4tzkvold.onion [CWE-256]
 
 ### Dependency installation
 
